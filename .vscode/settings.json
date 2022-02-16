@@ -4,7 +4,9 @@
     "esbuild",
     "Lich",
     "Parens",
+    "pinia",
     "vite",
+    "vitejs",
     "vitest"
   ]
 }
