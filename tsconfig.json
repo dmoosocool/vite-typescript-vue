@@ -19,7 +19,7 @@
     "types": ["node","vitest/global"],
     "rootDir": ".",
     "paths": {
-      "myLib/*": ["src"]
+      "@/*": ["src"]
     }
   },
 
