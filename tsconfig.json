@@ -19,7 +19,7 @@
     "types": ["node","vitest/global"],
     "rootDir": ".",
     "paths": {
-      "@/*": ["src"]
+      "@/*": ["./src/*"]
     }
   },
 
